@@ -1,0 +1,11 @@
+canvas{
+    
+	display:block;
+	margin:50px auto;
+	
+    
+}
+#chess{
+	background:red;
+	box-shadow:2px 2px 5px #333333;
+	}

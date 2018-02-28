@@ -1,0 +1,13 @@
+canvas{
+    
+	display:block;
+	margin:50px auto; 
+}
+#chess{
+	box-shadow:2px 2px 5px #333333;
+	}
+#p1{
+    width: 1360px;
+	height: 640px;
+
+}
